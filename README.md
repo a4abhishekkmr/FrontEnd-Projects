@@ -16,10 +16,10 @@ The goal is to learn by **implementing real projects** with HTML, CSS, JavaScrip
 ## 📂 Projects List
 
 ### 🟢 Beginner (HTML, CSS, JS Basics)
-- [Single Page CV]((https://github.com/a4abhishekkmr/Single-Page-CV))  
-- [ ] 2. Personal Blog Page  
-- [ ] 3. Landing Page (Product/Service)  
-- [ ] 4. Restaurant Menu Page  
+- [x] [Single Page CV](https://github.com/a4abhishekkmr/Single-Page-CV)  
+- [ ] [Personal Blog Page](https://github.com/a4abhishekkmr/Personal-Blog-Page)  
+- [ ] [Landing Page (Product/Service)](https://github.com/a4abhishekkmr/Landing-Page)  
+- [ ] [Restaurant Menu Page](https://github.com/a4abhishekkmr/Restaurant-Menu)  
 - [ ] 5. Form Validation Project  
 - [ ] 6. Calculator (Basic)  
 - [ ] 7. Digital Clock  
@@ -67,10 +67,7 @@ The goal is to learn by **implementing real projects** with HTML, CSS, JavaScrip
 ---
 
 ## 🛠 Tech Stack
-- **HTML5, CSS3, JavaScript (ES6+)**  
-- **React.js (for advanced projects)**  
-- **APIs (REST/JSON)**  
-- **Local Storage / Session Storage**  
+- **HTML**
 
 ---
 
