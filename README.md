@@ -17,8 +17,9 @@ Each project has:
    - 💻 [Live Demo](https://a4abhishekkmr.github.io/Single-Page-CV/)  
    - 📝 Create a single-page HTML CV to showcase your career history.  
 
-2. [Basic HTML Website](#)  
-   - 📌 [roadmap.sh link](https://roadmap.sh/projects/basic-html-website)  
+2. [Basic HTML Website](https://github.com/a4abhishekkmr/Basic-HTML-Website)
+   - 📌 [roadmap.sh link](https://roadmap.sh/projects/basic-html-website)
+   - 💻 [Live Demo](https://a4abhishekkmr.github.io/Basic-HTML-Website/)  
    - 📝 Create a simple HTML-only website with multiple pages.  
 
 ---
@@ -143,8 +144,8 @@ Each project has:
 ---
 
 ## 🚀 Progress
-- ✅ Completed: 1 / 24  
-- 🔜 In Progress: …  
+- ✅ Completed: 2 / 24  
+- 🔜 In Progress: ...
 
 ---
 
