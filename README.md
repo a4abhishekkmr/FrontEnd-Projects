@@ -16,7 +16,7 @@ The goal is to learn by **implementing real projects** with HTML, CSS, JavaScrip
 ## 📂 Projects List
 
 ### 🟢 Beginner (HTML, CSS, JS Basics)
-- [ ] 1. Portfolio Website  
+- [Single Page CV]((https://github.com/a4abhishekkmr/Single-Page-CV))  
 - [ ] 2. Personal Blog Page  
 - [ ] 3. Landing Page (Product/Service)  
 - [ ] 4. Restaurant Menu Page  
