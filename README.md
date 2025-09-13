@@ -20,49 +20,19 @@ The goal is to learn by **implementing real projects** with HTML, CSS, JavaScrip
 - [ ] [Personal Blog Page](https://github.com/a4abhishekkmr/Personal-Blog-Page)  
 - [ ] [Landing Page (Product/Service)](https://github.com/a4abhishekkmr/Landing-Page)  
 - [ ] [Restaurant Menu Page](https://github.com/a4abhishekkmr/Restaurant-Menu)  
-- [ ] 5. Form Validation Project  
-- [ ] 6. Calculator (Basic)  
-- [ ] 7. Digital Clock  
-- [ ] 8. To-Do List  
-- [ ] 9. Weather App (Static Data)  
-- [ ] 10. Responsive Navbar  
+
 
 ---
 
 ### 🟡 Intermediate (DOM, APIs, Advanced CSS)
-- [ ] 11. Quiz App  
-- [ ] 12. Expense Tracker  
-- [ ] 13. Music Player UI  
-- [ ] 14. Movie Search App (API)  
-- [ ] 15. E-commerce Product Page  
-- [ ] 16. GitHub Profile Finder (API)  
-- [ ] 17. Image Slider/Carousel  
-- [ ] 18. Notes App (Local Storage)  
-- [ ] 19. Markdown Previewer  
-- [ ] 20. Chat UI (Frontend Only)  
 
 ---
 
 ### 🔴 Advanced (React, Frameworks, Complex Apps)
-- [ ] 21. Weather App (Live API)  
-- [ ] 22. Blogging Platform (Frontend)  
-- [ ] 23. Portfolio with Dark Mode Toggle  
-- [ ] 24. Kanban Board (Trello Clone)  
-- [ ] 25. E-commerce Store (Frontend Only)  
-- [ ] 26. Authentication UI (Login/Signup + Validation)  
-- [ ] 27. Dashboard (Charts + Graphs)  
-- [ ] 28. Recipe Finder App (API)  
-- [ ] 29. Social Media UI Clone  
-- [ ] 30. Video Player App  
 
 ---
 
 ### 🏆 Expert Level
-- [ ] 31. Chat App (with WebSocket/Mock Backend)  
-- [ ] 32. Task Management App (React/State Management)  
-- [ ] 33. Netflix Clone (Frontend Only)  
-- [ ] 34. Online Code Editor (HTML/CSS/JS Preview)  
-- [ ] 35. Full Portfolio + Blog (Final Capstone Project)  
 
 ---
 
